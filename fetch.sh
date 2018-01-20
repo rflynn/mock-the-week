@@ -1,8 +1,6 @@
 #!/bin/bash -x
 
 
-<<'EOS'
-
 # too hot for tv
 youtube-dl -f 18 'https://www.youtube.com/watch?v=dLdD__-D_Pg&list=PLCD6746B0C22485DA'
 
@@ -80,5 +78,3 @@ youtube-dl -f 18 'https://www.youtube.com/watch?v=vTe3fAxBxRA&list=PLDLvW4AHfa_H
 # series 1
 youtube-dl -f 18 'https://www.youtube.com/watch?v=BCPnpXvlpVs&list=PLkqNHxG237dZBASLqa9gTn4Tio-qlM6jL'
 
-
-EOS
